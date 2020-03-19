@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="input_name">请输入您的姓名：</string>
+    <string name="choose_sex">请选择您的性别：</string>
+    <string name="woman">女</string>
+    <string name="choose_like">请选择您的爱好（可多选）：</string>
+    <string name="man">男</string>
+    <string name="name">如：李明</string>
+    <string name="like1">追剧</string>
+    <string name="like2">打游戏</string>
+    <string name="like3">听歌</string>
+    <string name="like4">运动</string>
+    <string name="text">心动指数</string>
+    <string name="todo">TODO</string>
+</resources>
